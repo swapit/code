@@ -10,3 +10,5 @@ format: GiverUserID,ReceiverUserID,itemID,timestamp
 `pair*.csv` files represent a bidirectional transaction between users  
 where user1 owns item1 and give it to user2  
 format: format: user1ID,item1ID,user2ID,item2ID,timestamp
+
+`*_dense.csv` files have compressed ID's in order to be loaded in non-sparse data formats.
