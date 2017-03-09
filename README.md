@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the method described in our [paper](http://swapit.github.io/data/wsdm238-rappazA.pdf)  
 
-The code can be run through the script `main.m`. This script contains a path to the dataset to be used. For example, you can change it to `data/bookmooch/bm6m/` to run it on a 6 months dataset of Bookmooch.  
+The code can be ran using the script `main.m`. This script contains a path to the dataset to be used. For example, you can change it to `data/bookmooch/bm6m/` to run it on a 6 months dataset of Bookmooch.  
 
 The implementation of our method can be found in `mf_bpr.m`.  
 
