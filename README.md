@@ -6,7 +6,7 @@ The code can be ran using the script `main.m`. This script contains a path to th
 
 The implementation of our method can be found in `mf_bpr.m`.  
 
-The datasets are contained in the `data/` directory or can be downloaded [here](http://swapit.github.io/data/swapit-data.zip).  
+The datasets are contained in the `data/` directory (that contains a more detailed description of the data) or can be downloaded [here](http://swapit.github.io/data/swapit-data.zip).  
 
 Don't forget to check out [our website](http://swapit.github.io/)!
 
